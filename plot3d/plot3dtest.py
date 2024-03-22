@@ -17,3 +17,4 @@ y = z * np.cos(25 * z)
 ax.plot3D(x, y, z, 'green')
 ax.set_title('3D line plot geeks for geeks')
 plt.show()
+
